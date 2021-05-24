@@ -1,0 +1,310 @@
+2021-05-23 11:38:23,558  INFO [main] Testbase:30 - initializing browser
+2021-05-23 11:38:23,561  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 11:38:23,561  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 11:38:25,536  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 11:38:28,403  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 11:40:44,727  INFO [main] Testbase:30 - initializing browser
+2021-05-23 11:40:44,730  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 11:40:44,730  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 11:40:46,677  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 11:40:49,122  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 11:42:01,173  INFO [main] Testbase:30 - initializing browser
+2021-05-23 11:42:01,175  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 11:42:01,175  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 11:42:03,110  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 11:42:05,278  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 11:47:20,869  INFO [main] Testbase:30 - initializing browser
+2021-05-23 11:47:20,874  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 11:47:20,874  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 11:47:22,834  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 11:47:24,691  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 11:49:54,107  INFO [main] Testbase:30 - initializing browser
+2021-05-23 11:49:54,110  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 11:49:54,110  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 11:49:56,049  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 11:49:58,230  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 11:55:01,747  INFO [main] Testbase:30 - initializing browser
+2021-05-23 11:55:01,749  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 11:55:01,749  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 11:55:03,739  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 11:55:06,535  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 12:00:59,625  INFO [main] Testbase:30 - initializing browser
+2021-05-23 12:00:59,628  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 12:00:59,628  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 12:01:01,644  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 12:01:03,911  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 12:06:16,179  INFO [main] Testbase:30 - initializing browser
+2021-05-23 12:06:16,184  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 12:06:16,184  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 12:06:18,173  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 12:06:20,822  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 12:07:46,008  INFO [main] Testbase:30 - initializing browser
+2021-05-23 12:07:46,011  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 12:07:46,011  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 12:07:48,028  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 12:07:50,805  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 12:08:30,376  INFO [main] Testbase:30 - initializing browser
+2021-05-23 12:08:30,379  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 12:08:30,379  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 12:08:32,349  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 12:08:35,045  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 12:16:44,630  INFO [main] Testbase:30 - initializing browser
+2021-05-23 12:16:44,633  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 12:16:44,633  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 12:16:46,598  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 12:16:50,020  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 12:24:12,727  INFO [main] Testbase:30 - initializing browser
+2021-05-23 12:24:12,730  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 12:24:12,730  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 12:24:14,704  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 12:24:16,943  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 12:35:59,286  INFO [main] Testbase:30 - initializing browser
+2021-05-23 12:35:59,288  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 12:35:59,288  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 12:36:01,314  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 12:36:03,755  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 12:51:00,652  INFO [main] Testbase:30 - initializing browser
+2021-05-23 12:51:00,655  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 12:51:00,655  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 12:51:02,644  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 12:51:05,985  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 12:54:43,684  INFO [main] Testbase:30 - initializing browser
+2021-05-23 12:54:43,687  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 12:54:43,688  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 12:54:45,684  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 12:54:48,283  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 13:07:10,007  INFO [main] Testbase:30 - initializing browser
+2021-05-23 13:07:10,012  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 13:07:10,013  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 13:07:13,225  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 13:07:32,330  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 13:12:07,749  INFO [main] Testbase:30 - initializing browser
+2021-05-23 13:12:07,754  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 13:12:07,754  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 13:12:10,839  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 13:12:13,912  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 13:19:38,171  INFO [main] Testbase:30 - initializing browser
+2021-05-23 13:19:38,176  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 13:19:38,176  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 13:19:41,456  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 13:19:48,146  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 13:25:50,360  INFO [main] Testbase:30 - initializing browser
+2021-05-23 13:25:50,364  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 13:25:50,365  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 13:25:53,572  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 13:25:56,503  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 13:27:01,554  INFO [main] Testbase:30 - initializing browser
+2021-05-23 13:27:01,558  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 13:27:01,558  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 13:27:04,786  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 13:27:07,861  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 13:28:05,372  INFO [main] Testbase:30 - initializing browser
+2021-05-23 13:28:05,376  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 13:28:05,377  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 13:28:08,437  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 13:28:11,288  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 13:32:09,905  INFO [main] Testbase:30 - initializing browser
+2021-05-23 13:32:09,909  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 13:32:09,910  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 13:32:13,007  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 13:32:15,398  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 13:34:13,089  INFO [main] Testbase:30 - initializing browser
+2021-05-23 13:34:13,094  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 13:34:13,094  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 13:34:16,401  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 13:34:18,997  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 13:37:04,956  INFO [main] Testbase:30 - initializing browser
+2021-05-23 13:37:04,961  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 13:37:04,962  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 13:37:08,151  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 13:37:11,984  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 13:41:59,269  INFO [main] Testbase:30 - initializing browser
+2021-05-23 13:41:59,274  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 13:41:59,274  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 13:42:02,343  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 13:42:04,956  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 14:42:12,718  INFO [main] Testbase:30 - initializing browser
+2021-05-23 14:42:12,718  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 14:42:12,718  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 14:42:15,327  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 14:42:18,776  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 14:42:57,063  INFO [main] Testbase:30 - initializing browser
+2021-05-23 14:42:57,063  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 14:42:57,063  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 14:42:59,625  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 14:43:02,310  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 17:19:50,596  INFO [main] Testbase:30 - initializing browser
+2021-05-23 17:19:50,598  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 17:19:50,598  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 17:19:52,869  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 17:20:06,660  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 17:20:59,968  INFO [main] Testbase:30 - initializing browser
+2021-05-23 17:20:59,971  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 17:20:59,971  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 17:21:02,104  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 17:21:04,927  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 17:35:59,606  INFO [main] Testbase:30 - initializing browser
+2021-05-23 17:35:59,608  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 17:35:59,608  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 17:36:01,540  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 17:36:04,083  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 17:52:02,128  INFO [main] Testbase:30 - initializing browser
+2021-05-23 17:52:02,128  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 17:52:02,128  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 17:52:04,214  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 17:52:07,410  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 17:55:39,622  INFO [main] Testbase:30 - initializing browser
+2021-05-23 17:55:39,622  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 17:55:39,622  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 17:55:41,583  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 17:55:44,360  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 17:55:53,936  INFO [main] Testbase:30 - initializing browser
+2021-05-23 17:55:53,936  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 17:55:53,936  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 17:55:55,811  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 17:55:57,379  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 17:57:24,415  INFO [main] Testbase:30 - initializing browser
+2021-05-23 17:57:24,415  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 17:57:24,415  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 17:57:26,371  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 17:57:29,496  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:05:21,323  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:05:21,331  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:05:21,331  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:05:23,215  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:05:27,283  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:09:20,231  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:09:20,231  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:09:20,231  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:09:22,212  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:09:24,910  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:09:39,100  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:09:39,100  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:09:39,100  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:09:41,013  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:09:42,652  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:17:26,176  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:17:26,184  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:17:26,184  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:17:28,075  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:17:30,630  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:19:45,644  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:19:45,644  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:19:45,644  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:19:47,617  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:19:49,902  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:21:18,196  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:21:18,196  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:21:18,196  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:21:20,148  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:21:23,414  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:24:28,393  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:24:28,393  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:24:28,393  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:24:30,293  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:24:32,722  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:26:33,778  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:26:33,794  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:26:33,794  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:26:35,763  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:26:38,191  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:27:12,769  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:27:12,777  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:27:12,777  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:27:14,625  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:27:17,413  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:27:52,572  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:27:52,572  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:27:52,572  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:27:54,468  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:27:57,258  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:28:06,990  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:28:06,990  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:28:07,006  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:28:08,929  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:28:10,376  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:29:03,092  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:29:03,092  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:29:03,092  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:29:04,979  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:29:07,669  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:29:42,474  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:29:42,474  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:29:42,474  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:29:44,358  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:29:46,930  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:30:16,971  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:30:16,971  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:30:16,971  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:30:18,978  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:30:22,258  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:30:46,427  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:30:46,443  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:30:46,443  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:30:48,362  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:30:50,053  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:31:02,370  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:31:02,370  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:31:02,370  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:31:04,331  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:31:05,924  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 18:58:17,106  INFO [main] Testbase:30 - initializing browser
+2021-05-23 18:58:17,106  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 18:58:17,106  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 18:58:19,049  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 18:58:29,399  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 19:02:06,320  INFO [main] Testbase:30 - initializing browser
+2021-05-23 19:02:06,322  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 19:02:06,322  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 19:02:08,214  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 19:02:12,023  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 19:03:15,644  INFO [main] Testbase:30 - initializing browser
+2021-05-23 19:03:15,644  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 19:03:15,644  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 19:03:17,608  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 19:03:19,169  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 19:04:29,797  INFO [main] Testbase:30 - initializing browser
+2021-05-23 19:04:29,813  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 19:04:29,813  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 19:04:31,786  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 19:04:33,371  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 19:14:39,317  INFO [main] Testbase:30 - initializing browser
+2021-05-23 19:14:39,325  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 19:14:39,325  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 19:14:41,281  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 19:14:43,889  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 19:22:28,960  INFO [main] Testbase:30 - initializing browser
+2021-05-23 19:22:28,968  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 19:22:28,968  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 19:22:30,958  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 19:22:32,896  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 19:23:43,175  INFO [main] Testbase:30 - initializing browser
+2021-05-23 19:23:43,175  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 19:23:43,175  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 19:23:45,117  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 19:24:00,042  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 19:27:48,036  INFO [main] Testbase:30 - initializing browser
+2021-05-23 19:27:48,036  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 19:27:48,036  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 19:27:49,931  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 19:27:53,549  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 19:28:29,660  INFO [main] Testbase:30 - initializing browser
+2021-05-23 19:28:29,676  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 19:28:29,676  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 19:28:31,622  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 19:28:34,042  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 19:30:45,678  INFO [main] Testbase:30 - initializing browser
+2021-05-23 19:30:45,678  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 19:30:45,678  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 19:30:47,539  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 19:30:50,786  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 19:31:46,126  INFO [main] Testbase:30 - initializing browser
+2021-05-23 19:31:46,126  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 19:31:46,126  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 19:31:48,030  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 19:31:50,435  INFO [main] Testbase:55 - maximizing browser window
+2021-05-23 19:36:02,716  INFO [main] Testbase:30 - initializing browser
+2021-05-23 19:36:02,716  WARN [main] Testbase:31 - chromedriver file should be at specific location
+2021-05-23 19:36:02,716  INFO [main] Testbase:34 - chrome browser opened
+2021-05-23 19:36:04,672  INFO [main] Testbase:52 - JBK Offline application is launched
+2021-05-23 19:36:09,000  INFO [main] Testbase:55 - maximizing browser window
