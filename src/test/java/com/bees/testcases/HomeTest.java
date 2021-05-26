@@ -33,8 +33,8 @@ public class HomeTest extends Testbase {
 	}
 
 	@Test
-	public void windowHandleForReadMore()throws Exception{
-		Assert.assertTrue(hp.readMoreWindowHandle());
+	public void searchInvalidData(){
+		Assert.assertTrue(hp.invalidDatainSearch());
 	}
 
 }

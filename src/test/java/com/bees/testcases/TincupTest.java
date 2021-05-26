@@ -26,12 +26,16 @@ public class TincupTest extends Testbase {
 	}
 	
 	@Test
-	public void verifyTincupColors(){
-		Assert.assertTrue(tcp.checkColorsOfTinCup());
+	public void verifyTincupBackGroundColors(){
+		Assert.assertTrue(tcp.checkBackGroundColorsOfTinCup());
 	}
 	@Test
 	public void verifyDatasheet()throws Exception{
 		Assert.assertTrue(tcp.checkDatasheet());
+	}
+	@Test
+	public void verifyColorsNames(){
+		Assert.assertTrue(tcp.checkColorsNmOfTinCup());
 	}
 	
 }

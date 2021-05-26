@@ -3,12 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.bees.testcases.Prac">
+      <class name="com.bees.testcases.HomeTest">
         <methods>
+          <include name="searchInvalidData"/>
+          <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="URLoneReadMoreOfHomePg"/>
         </methods>
-      </class> <!-- com.bees.testcases.Prac -->
+      </class> <!-- com.bees.testcases.HomeTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

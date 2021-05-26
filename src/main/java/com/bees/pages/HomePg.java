@@ -1,14 +1,8 @@
 package com.bees.pages;
 
-import java.util.ArrayList;
-import java.util.Set;
-
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.PageFactory;
-
 import com.bees.objetRepositary.HomeObjRepositary;
-import com.bees.utility.ExcelUtility;
 import com.bees.utility.Utility;
 
 
@@ -19,6 +13,10 @@ WebDriver driver;
 	{
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
+	}
+	public CoffeeAndTeaPage navigateToCoffeeAndTeaPg(){
+		Utility.click(coffeeAndTea);
+		return new CoffeeAndTeaPage(driver);
 	}
 	public CandlePage navigateToCandlePg(){
 		Utility.click(ourcandle);
@@ -48,26 +46,19 @@ WebDriver driver;
 		return false;
 	}
 	
-	public boolean readMoreWindowHandle()throws Exception{
-		ArrayList<String>actData=new ArrayList<String>();
-		ArrayList<String>expData=ExcelUtility.getColumnData("TestData.xlsx", "windowTitle", 0);
-		String parent=driver.getWindowHandle();
-		for(WebElement e:readMore){
-			e.click();
-		}
-		Set<String> allWindows = driver.getWindowHandles();
-		for(String child:allWindows){
-			if(!parent.equalsIgnoreCase(child)){
-				driver.switchTo().window(child);
-				String text=driver.getTitle();
-				actData.add(text);
-				driver.close();
-			}
-		}
-		driver.switchTo().window(parent);
-		if(actData.equals(expData))
+	
+	public boolean invalidDatainSearch(){
+		String ww="@2hhh$";
+		Utility.sendkeys(search,ww );	
+		Utility.click(searchsymbol);
+		String actual=searchNotFoundMsg.getText();
+	
+		String expected="No results were found for your search \"@2hhh$\"";
+		System.out.println(actual+"   Actual"+"   "+expected); 
+
+		if(actual.equals(expected))
 			return true;
 		else
-			return false;
+			return false;	
 	}
 }

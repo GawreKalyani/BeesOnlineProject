@@ -17,7 +17,7 @@ public TincupPage(WebDriver driver) {
 	PageFactory.initElements(driver, this);
 }
 
-public boolean checkColorsOfTinCup(){
+public boolean checkBackGroundColorsOfTinCup(){
 	
 	ArrayList<String>expData=new ArrayList<String>();
 	expData.add("rgba(250, 214, 41, 1)");
@@ -48,6 +48,23 @@ public boolean checkDatasheet() throws Exception{
 	else
 		return false;
 }
-
+public boolean checkColorsNmOfTinCup(){
+	
+	ArrayList<String>expData=new ArrayList<String>();
+	expData.add("Yellow");
+	expData.add("Black");
+	
+	ArrayList<String>actData=new ArrayList<String>();
+	for(WebElement ele:colors)
+	{
+		String text=ele.getAttribute("title");
+		System.out.println(text);
+		actData.add(text);
+	}
+	if(actData.equals(expData))
+		return true;
+	else
+		return false;
+}
 
 }
